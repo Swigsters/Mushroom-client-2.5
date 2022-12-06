@@ -9,7 +9,7 @@
 
 #### Combat cheats:
 - Killaura (toggles: through walls, mobs, autoblock)
-- antikb
+- antikb (WIP for hypixel)
 - autoclicker
 - Swordswap (auto swap to snowballs when you click with sword for more kb)
 - autoblock (not working...)
